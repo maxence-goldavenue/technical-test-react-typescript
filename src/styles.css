@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.top-bar {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
